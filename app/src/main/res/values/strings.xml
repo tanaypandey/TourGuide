@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!--PLACES STRINGS-->
+    <!--name-->
+    <string name="pn1">Bara Imambara</string>
+    <string name="pn2">Chota Imambara</string>
+    <string name="pn3">Rumi Darwaza</string>
+    <string name="pn4">Ambedkar Memorial Park</string>
+    <string name="pn5">Nawab Wajid Ali Shah Zoological Garden</string>
+    <string name="pn6">Chattar Manzil</string>
+    <string name="pn7">Janeshwar Mishra Park</string>
+    <string name="pn8">Dilkusha Kothi</string>
+    <string name="pn9">Residency - ASI Monument</string>
+
+    <!--rating-->
+    <string name="pr1">4.2</string>
+    <string name="pr2">4.2</string>
+    <string name="pr3">4.2</string>
+    <string name="pr4">4.1</string>
+    <string name="pr5">3.9</string>
+    <string name="pr6">4.1</string>
+    <string name="pr7">4.3</string>
+    <string name="pr8">4.2</string>
+    <string name="pr9">4.2</string>
+
+    <!--time-->
+    <string name="pt1">11AM–11PM</string>
+    <string name="pt2">11AM–10:40PM</string>
+    <string name="pt3">11AM–10:30PMt</string>
+    <string name="pt4">11AM–11PM</string>
+    <string name="pt5">11AM–11PM</string>
+    <string name="pt6">11AM–11PM</string>
+    <string name="pt7">	12–3:30PM, 7:30–11:30PM</string>
+    <string name="pt8">	8AM–11PM</string>
+    <string name="pt9">11AM–11PM</string>
+
+    <!--address-->
+    <string name="pa1">Machchhi Bhavan, Lucknow, Uttar Pradesh 226003</string>
+    <string name="pa2">Husanabad Rd, Daulatganj, Lucknow, Uttar Pradesh 226003</string>
+    <string name="pa3">17/11, Hussainabad Road, Lajpat Nagar Colony, Lajpat Nagar, Machchhi Bhavan, Lucknow, Uttar Pradesh 226003</string>
+    <string name="pa4">Vipul Khand 2, Vipul Khand 3, Gomti Nagar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="pa5">Narhi, Hazratganj, Lucknow, Uttar Pradesh 226001</string>
+    <string name="pa6">Mahatma Gandhi Marg, Qaiserbagh, Lucknow, Uttar Pradesh 226001</string>
+    <string name="pa7">Gomti Nagar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="pa8"> Bibiapur Marg, Neil Lines, Cantonment, Lucknow, Uttar Pradesh 226002</string>
+    <string name="pa9">Mahatma Gandhi Marg, Deep Manak Nagar, Qaiserbagh, Lucknow, Uttar Pradesh 226001</string>
+
+<!--description-->
+    <string name="pd1">The building also includes the large Asfi mosque, the bhul-bhulaiya (the labyrinth), and bowli, a step well with running water. Two imposing gateways lead to the main hall. It is said that there are 1024 ways to reach the terrace but only one to come back. It is an accidental architecture.Relief measureConstruction of Bara Imambara was started in 1785, a year of a devastating famine, and one of [Asaf-ud-Daula]s objectives in embarking on this grandiose project was to provide employment for people in the region for almost a decade while the famine lasted. It is said that ordinary people used to work in the day building up the edifice, while noblemen and other elite worked at night to break down anything that was raised that day. It was a project that preceded a Keynesian like intervention for employment generation. Construction of the Imambara was completed in 1791. Estimated cost of building the Imambara ranges between half a million rupees to a million rupees. Even after completion, the Nawab used to spend between four and five hundred thousand rupees on its decoration annually.[1]</string>
+    <string name="pd2">The Chhota Imambara, or the Imambara of Hussainabad, is one of the most beautiful and attractive buildings in the old city of Lucknow in Uttar Pradesh in India. This imposing monument lies to the west of Bara Imambara and is a true sight to behold. The Chhota Imambara was initially a congregation hall for Shia Muslims that was built by Muhammad Ali Shah, who was the third Nawab of Awadh, in the year 1838. The Imambara was to serve as his own mausoleum as well as that of his mother, who is buried beside him in this prestigious monument. The Imambara is beautifully adorned with decorations and chandeliers at the time of special festivals, especially Muharram. In fact, this 19th-century building is also referred to as the Palace of Lights by European visitors and writers because of the profuse decorations of the monument at specific events.Chhota Imambara is one of the most prominent historical structures of Lucknow. Architecturally, it is a beautiful amalgam of Charbagh, Indo-Islamic and Persian structural and architectural designs. The exterior of the temple is complete with Quranic verses which are written in Islamic calligraphy on the walls of the monument. However, it is not just the exterior of the Imambara which catches the fancy of the eager visitors. Even the interiors of the monument are designed and maintained with intricate details and utmost care.</string>
+    <string name="pd3">Rumi Darwaza in the heart of Lucknow looms over the busy everyday traffic of Lajpatnagar like an old guardian angel that has seen the city rise and fall. The ancient Awadhi architecture of Rumi Darwaza is one of those features of the old city of Lucknow which still clings on to the nostalgias of the past, like the horse driven Tonga cart. The creation of Rumi Darwaza has a very charitable reason behind it. When famine struck North India during 1748, the then Nawab of Lucknow came up with a plan that will feed his countrymen as well as give him something to cherish and be proud of.As per the plan, the Awadhi workers built the great Rumi Darwaza for him, in exchange for every day’s meal. Back then it was the gateway to the royal city and palace, and the architecture was a flattering imitation of a similar specimen which stood in the then Byzantine empire, now called Istanbul. </string>
+    <string name="pd4">The Ambedkar Memorial Park was constructed by the Mayawati Government in Gomti Nagar, Lucknow. The park was built to commemorate the people who dedicated their life to equality and human justice like Dr. Bhimrao Ambedkar, Kanshi Ram and others. With a budget of a whopping seven billion rupees, the park is one of the loveliest things to see in Lucknow</string>
+    <string name="pd5">Located in the heart of Lucknow, the Nawab Wazid Ali Shah Prani Udyan or Lucknow Zoo is a favourite haunt of wildlife enthusiasts from all over the city. This massive zoo is spread over an area of 71.6 acres and was established in the year 1921 to commemorate the visit of His Royal Highness, the Prince of Wales to Lucknow. It was formerly known as the Prince of Wales Zoo but was later renamed after. Some of the fascinating animals and birds such as Royal Bengal Tiger, White Tiger, Lion, Wolf, Great Pied Hornbill, Golden Pheasant and Silver Pheasant can be spotted here in their natural habitat.In addition to being a safe house for animals such as  Hoolock Gibbon, Himalayan Black Bear, Indian Rhinoceros, Blackbuck, Swamp Deer, Barking Deer and Hog Deer, the Lucknow Zoo also has a number of fun-filled activities for its visitors. You can observe the vintage train that is exhibited in the zoo premises, and if that leaves you wanting for more, hop aboard the toy train that runs through the zoo! The State Museum displaying artefacts from Awadh is also situated in the Lucknow Zoo. In addition to these, several events such as Wildlife Week and Children\\'s day Celebration are regularly held here as well.</string>
+    <string name="pd6">Chattar Manzil or popularly known as Umbrella Palace was built by Nawab Ghazi Uddin Haider and was later on used by the ruler of Awadh and his wives. The building is a glowing example of Indo-European-Nawabi architecture and is situated on the banks of river Gomti. The building has large underground rooms and a huge chattri adorning its dome</string>
+
+    <!--RESTAURANTS STRINGS-->
+    <!--name-->
+    <string name="rn1">Pack N Chew</string>
+    <string name="rn2">Vintage Machine</string>
+    <string name="rn3">Baati Chokha Restaurant</string>
+    <string name="rn4">Spice Caves</string>
+    <string name="rn5">The Kalika Hut Restaurant</string>
+    <string name="rn6">Moti Mahal Restaurant</string>
+    <string name="rn7">Mainland China</string>
+    <string name="rn8">Curry Leaf</string>
+    <string name="rn9">Royal Cafe</string>
+    <string name="rn10">Babian restaurant</string>
+
+    <!--time-->
+    <string name="rt1">11AM–11PM</string>
+    <string name="rt2">11AM–10:40PM</string>
+    <string name="rt3">11AM–10:30PMt</string>
+    <string name="rt4">11AM–11PM</string>
+    <string name="rt5">11AM–11PM</string>
+    <string name="rt6">11AM–11PM</string>
+    <string name="rt7">	12–3:30PM, 7:30–11:30PM</string>
+    <string name="rt8">	8AM–11PM</string>
+    <string name="rt9">11AM–11PM</string>
+    <string name="rt10">11AM–10:30PM</string>
+
+    <!--rating-->
+    <string name="rr1">4.2</string>
+    <string name="rr2">4.2</string>
+    <string name="rr3">4.2</string>
+    <string name="rr4">4.1</string>
+    <string name="rr5">3.9</string>
+    <string name="rr6">4.1</string>
+    <string name="rr7">4.3</string>
+    <string name="rr8">4.2</string>
+    <string name="rr9">4.2</string>
+    <string name="rr10">3.7</string>
+
+    <!--address-->
+    <string name="ra1"> 2/30, Vijay Khand, Near Mithaiwala Chauraha, Gomti Nagar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ra2"> 3, Patrakarpuram Crossing Road, Patrakar Puram, Sector 11, Gomti Nagar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ra3">2/5,Vivek Khand,Near-Mithaiwala Chauraha, Gomti Nagar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ra4">4/293, 1st Floor, Vivek khand Above Samsung Showroom, Patrakar Puram, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ra5">The Kalika Hut Restaurant 1/13, Near Lohiya Park, Vijay Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ra6">: No.75, Mahatma Gandhi Marg, Next to Central Bank of India, Hazratganj, Lucknow, Uttar Pradesh 226001</string>
+    <string name="ra7">3rd Floor, Riverside Mall, Gomtinagar, Vipinkhand, Above Big Bazaar, Next to Hotel Taj, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ra8">Shop 3, East Block, Near Shree Hanuman Temple, Hazratganj, Lucknow, Uttar Pradesh 226001</string>
+    <string name="ra9"> 51, Mahatma Gandhi Marg, Sushanpura, Hazratganj, Lucknow, Uttar Pradesh 226001</string>
+    <string name="ra10"> B155, bhootnath market, indira nagar, Lucknow, Uttar Pradesh 226016</string>
+
+    <!--description-->
+    <string name="rd1">Ambiance: Being a picture addict, I prefer the ambiance more than the food. Yes, I do! The place deserves a 5 star for maintaining very attractive interiors that looks very sophisticated and clean. It has been designed very creatively with beautifully selected wallpapers and graffiti designs.Sitting arrangements: The best part about this place is that it has two separate and entirely different sitting arrangement, the open area as well as the closed fine dine . It’s a perfect place for family dinners, kitty parties and even when you wish to hang out with your friends and looking forward to have a proper conversation.Of course, the FOOD! No matter how beautiful the interiors are, I will never prefer a place that fails to serve good food. I would rate this 11 on 10 when it comes to food. Food, here is an utter delight. Its a brilliant place for those who are hard core non vegetarian and prefer Awadhi cuisines.The music! I don’t know about you but I am a huge fan of sufi melodies. No matter how many times i go there, their music always attracts me and makes my meal even more special.The service here is excellent and quick. Nobody likes to sit hours after they order because that feeling really irritates. They are very quick in their services as well as the hospitality.</string>
+    <string name="rd2">Very nice cozy place to hangout with family and friends. Heard a lot about this place and recently visited to try the food here. Very nice ambience and courteous staff. In fact the staff are ready to help you customize the food as per your choice.Ordered the Farmers Choice Lamb Burger 🍔 with a twist of caramelized onion in Smoky BBQ sauce which I requested he staff to customize it for me. The burger was well made and was up to my expectation. Been a burger person myself, I enjoyed the burger. Portion size was also optimal and good enough.Must go place in Gomti Nagar!!</string>
+    <string name="rd3">In the midst of bungalows, on one of the service lane of Gomti Nagar lies this traditional Rajasthani theme restaurant. Going by the exterdal appearance, it’s difficult to tell that there is a dining place waiting to welcome you. As you step in the compound, you can see fresh sattu being made by traditional method. A Tuli plant in the centre does draw your attention and if you are new to this tradition, you would definitely remember the Tulsi plant standing in the centre of the house of the very famous serial “kyuki saas bhi kabhi bhahu thi”.The interiors is village like setting with the walls being done with mud and a lot of hand crafted design on them. Some nicely done water-based painting on the wall looks appealing to the eyes. You can also see a lot a bamboo and wood being used to perfection. </string>
+    <string name="rd4"> Ambience is good . Decor is very good .Dark theme. It has seating for all no. Of people whether 2,3,4,10,15 . I like the table which are on a raised platform through stairs .It\'s nice and cosy there, Though I never got it.Now coming to food. It is moderately priced. Main course is good . We ordered paneer .It was good. Dum aloo was not good. I have been there twice . Next time we order white sauce pasta which none of my friends liked and neither the veg noodles. It was just okay. I prefer main course there.Overall it\'s a good place for Indian food.Theme of caves is literally visible. Also on birthdays they give complimentary photography if you want.Sometimes they give complimentary paan shots in the end of your meal.Thats amazing.</string>
+    <string name="rd5">I have eaten there loads of times but today was the first time I ordered via zomato delivery was in time and food hot and packed well our order mutton handi which was not up to the mark mutton gravy was way too sweet probably because there were loads of onions in it mutton was soft and tender which actually made it worth eating and other thing we ordered was lehsuni murg tikka which was perfect chicken was soft and full of flavours no complains there one thing for team kalika pay a little more attention on deliveries coz I never had any problems with your mutton handi when I ate in the restaurant</string>
+    <string name="rd6">While this place serves a full dinner the north Indian /south Indian / Chinese whatever you want kind of place, the review is restricted to the chaat and the desserts. We had those while walking down Hazratganj during a shopping excursion and loved it so much that we ended up gravitating here after a meal very often. There is a famous Lucknow dessert known as Nimish or makhan malai, after living with an ultra sweet tooth for over three decades one would think you had seen it all but this was like nothing I\'ve had before. A simple dish of whipped cream with some rose water and dry fruits, that just explodes in your mouth. Extremely light inspite of what the name indicates, this is a surprisingly wonderful dish, something you must have if you are visiting Lucknow. Also Moti mahal had very good gajar halwa and shahi tukda as well as the wonderful creamy warm milk you get everywhere in North India. Also some excellent gol gappas, the lucknow version being very different from the Delhi version and I thought they were better.In all I don\\'t know about the main courses but would highly recommend this place for the makhan malai and desserts.</string>
+    <string name="rd7">Mainland China has the best Chinese in Lucknow. Whenever I crave for a good authentic Chinese meal, I make my way to Mainland China.Last week I went for dinner to Mainland China. We ordered Basil flavoured Chicken Dimsums, Crackling Spinach and Singapore Chilli Prawns for starters. Every thing was just so delicious. We totally relished all the three dishes.Then for the main course we ordered Chicken Hakka Noodles, Lemon Grass fried rice, Sichuan vegetables Hot Pot (my all time favourite) and Tsing Hoi Chicken. I totally loved the chicken dish. It had a different pickle flavour to it. The taste and quality is always top notch! However, our only complaint was that inspite of us asking the waiter whether they have all the ingredients mentioned in the menu or not (vegetables like bamboo shoots, shiitake mushrooms and tofu) the vegetable did not have any of these. We had to returd it asking him to get some mushrooms and tofu in it. That kind of killed the whole mood. Otherwise, taste wise, I always love everything there.😋Oh, and to end it all, we ordered Coconut Caramel Custard (family’s favourite). It is the best custard I have ever had! A must have!😍</string>
+    <string name="rd8">Its a south Indian restaurant in main Hazratganj.
+The ambience is very calm and peaceful , such soothing colours , a lot of positivity.
+They serve vegetarian food only.
+
+Ambience- 4/5
+Service-4/5
+Food- 4/5
+Value for money 4/5
+
+I’ve tried their -
+1. Panchratani Utthampam - 5 utthampams each with different toppings ( onion, capsicum , tomato , green chilli  my favourite coconut)
+
+2. South Indian combo - This is so filling and budget friendly (180 bucks) they serve:
+1 mini dosa
+1 rice idli
+2 vada
+2 bowls sambar
+
+3. Mysore Masala Dosa - Masala dosa with an orange chutney layer on the inner side of the dosa paper
+
+4. Fruit chat - lots of fresh cut fruits put together , very refreshing and healthy
+
+I liked all the food preparations here , I visit here often and I would recommend you guys also to give it a try 😁</string>
+    <string name="rd9">I recently visited lucknow and i was suggested to have tokri chaat at the famous royal cafe in hazratganj. And indeed i must say it was a heavenly affair.
+The tokri was made of fried potato. It was filled with aloo tikki, bhalla , papdis toped with lots of curd, green chutney, and sauth. Gardished with coriander.
+On the sides there was extra tamarind chutney. For some extra sweet flavour.
+I must say it is heavy for one person to have.
+
+Taste - 4/5
+Value for money - 4/5
+Quality - 5/5</string>
+    <string name="rd10">Babian is one of the popular restaurant at Bhootnath Market (Indra Nagar). It/\\\'s best place to enjoy delicious and tasty food. 
+
+Ambience is also very well maintained and proper care of hygiene level. We suggest you sit near glass panel so you get the outer view of the market. 
+
+We have decided to try out the restaurant with family and order Paneer Chilli (Gravy), Veg. Kulcha, Paneer Kulcha and in desserts we have tasted Gulab Jamun and Kesar Pista Ice-Cream.
+
+Now, lets check out the ratings.....
+
+
+1). Paneer Chilli (Gravy)    4.5/5.0
+
+2). Paneer Kulcha     4.0/5.0
+
+3). Veg. Stuffed Kulcha  4.0/5.0
+
+4). Gulab Jamun  3.5/5.0
+
+5). Kesar Pista Ice-Cream   4.5/5.0
+
+
+Paneer Chilli gravy is perfect in taste. Kulcha/\\\'s are super soft and taste is superb. Gulab Jamun is tasty but served less hot, just a quick reminder to management team to serve gulab jamun hot. Kesar pista ice cream is great in taste. 
+
+Overall our dine-in experience is great and enjoyed the food.
+
+Babian restaurant is perfect place to dine-in with your friends or family.</string>
+
+    <!--MALLS-->
+
+    <!--name-->
+    <string name="mn1">Fun Republic Mall</string>
+    <string name="mn2">Sahara Ganj Mall</string>
+    <string name="mn3">Wave Mall Lucknow</string>
+    <string name="mn4">One Awadh Center Mall, Lucknow</string>
+    <string name="mn5">Phoenix United Mall</string>
+
+
+    <!--time-->
+    <string name="mt1">11AM–11PM</string>
+    <string name="mt2">11AM–10:40PM</string>
+    <string name="mt3">11AM–10:30PMt</string>
+    <string name="mt4">11AM–11PM</string>
+    <string name="mt5">11AM–11PM</string>
+
+
+    <!--rating-->
+    <string name="mr1">4.2</string>
+    <string name="mr2">4.2</string>
+    <string name="mr3">4.2</string>
+    <string name="mr4">4.1</string>
+    <string name="mr5">3.9</string>
+
+
+    <!--address-->
+    <string name="ma1"> 2/30, Vijay Khand, Near Mithaiwala Chaumaha, Gomti Nagar, Lucknow, Uttar Pmadesh 226010</string>
+    <string name="ma2"> 3, Patmakarpumam Crossing Road, Patmakar Pumam, Sector 11, Gomti Nagar, Lucknow, Uttar Pmadesh 226010</string>
+    <string name="ma3">TC 54, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226001</string>
+    <string name="ma4">Plot No.384, Gomti Nagar Road, Vibhuti Khand, Opposite Apna Bazaar, Lucknow, Uttar Pradesh 226010</string>
+    <string name="ma5">National Highway 25, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226005</string>
+
+    <!--description-->
+    <string name="md1">With a variety of eateries, clothes and accessory stores, book stores, footwear shops and much more, Fun Republic mall is a treat to your eyes. Be it Shoppers Stop, Lee, Max, Levis, Pepe jeans, Wills, Spencer’s, Puma, Nike or United Colors of Benetton, this place provides a wide spread of international brands of clothes. Home Stop store offers furnishing and home accessories, and you can fulfill your electronic needs from Jumbo and Spencer Hyper showrooms. With Crossword and Archies Gallery stores, books and gifts shopping becomes easier. You will also find eating joints such as McDonald’s, Madsar Mail, Moti Mahal Delux, Aura, Spencer Hyper and U.S. Pizza at this mall. Footwear brands at this place range from Lotto, Puma, Mochi, Nike, Reebok to Adidas. Fun Cinemas provides you best cinematic experience. Come and have a fabulous time with your loved ones at Fun Republic mall</string>
+    <string name="md2">World-class standards, extraordinary architecture, innovative layouts, and well-thought execution make Sahara Ganj a highly popular shopping destination. Explore different stores and avail the branded merchandises. Sahara Ganj mall in Lucknow is the best place to have a memorable time with kids and family, or a bunch of friends. With a variety of showrooms and brands, this mall is a one-stop destination for all your shopping needs. Central and Big Bazaar outlets make this mall a buzzing place. You can also have a wonderful movie experience at the PVR in Sahara Ganj. Be it Royal Cafe, KFC, Pizza Hut, McDonalds, Dosa Plaza, Chinese Kitchen or Dezzerts, this place caters to all your eating needs. It also has a good parking area. From low, mid to high-end shopping, Sahara Ganj mall provides a variety of products.</string>
+    <string name="md3">Fulfill all your shopping needs at Wave Mall. With stores, such as Koutons, Globus, Provogue, Westside, Peter England and Kohli Brothers, this mall is a one-stop destination for shopaholics. Mc Donald’s, Pizza Hut, and Barista cater all your eating needs. You can do book and gift shopping at Landmark and Archies Gallery. This mall has many Individual shops making it an ideal destination for shopping. You will find excellent quality footwear at Westside, Reliance Footprints, Globus and Liberty. Have a great cinematic experience at the multiplex, and spend your day in a fabulous way. You can also explore Reliance Digital, Landmark and Vodafone stores. This chic and stylish mall with trendy and popular brands is a must visit place for shopping.</string>
+    <string name="md4">One Awadh Center represents this new Lucknow, the 400.000 sq. ft development is nothing short of a landmark for its style and splendor. An eight-screen megaplex - the city\'s first, by Cinepolis will impress everyone with a truly international cinematic experience. Top fashion labels and retail brands make the place a shopper\'s paradise. And some of the finest multi-cuisine restaurants and cafes will delight craving taste buds.One Awadh Center is contemporary in design and stylish in built. It has automated Building Management systems to make the whole structure energy efficient and environment friendly. Features like central air-conditioning, power backup and multi-level parking complete it as a truly modem commercial complex,One Awadh Center enjoys an immense location advantage. It is situated in the posh Gomti Nagar area of the city which, in the past few years has emerged as the new central business and shopping district.
+
+One Awadh Center will be a first-choice address because of a number of reasons. It\\'s surrounded by many high-profile government building. Private Sector offices like Airtel and Vodafone and reputed institutions.
+
+The mall is in the midst of several well-known housing societies, including Eldeco Parsvnath, Omax and Rohtas Plumeria And with no comparable competitor in vicinity, it will enjoy footfalls from approximately 2000 apartments that are being constructed within its 500 meter radius.</string>
+    <string name="md5">An ode for shopaholics and a favourite destination for foodies; Phoenix Lucknow is a dream come true for the people of this city of Nawabs. Nestled between Piccadily Hotel and Krishna Colony, this mall is developed over a sprawling  6,50,000 sq. ft. With a spectrum of domestic and international brands that give bountiful of options for shoppers, Phoenix Lucknow is definitely \'the place\', one would hang out with loved ones.
+
+Indulge into the myriad options for entertainment as you shop to your heart\'s content from their exhaustive mix of national and International brands. The multiplex has 6 screens and seating arrangement for over 1500 people, which makes it the most favoured place to watch blockbuster hits. Not to forget, a wide area of 16,000 sq. ft., dedicated solely to multi cuisines food court, which offers several dining options including restaurants like Bombay Blue and Noodle bar  food joints like Dominos, KFC, etc
+
+Take a break from routine and visit Phoenix Lucknow to create memories that last long. Becoming the epitome for development in shopping and entertainment hubs across the country, Phoenix Mills Ltd. is poised to carve a niche in the booming Indian real estate sector. Led by our young Managing Director, Atul Ruia and a team of exceptionally talented professionals, the Phoenix Group is set to take on the challenge of redefining lifestyle in Indian cities.
+
+From mega retail malls, entertainment complexes, commercial space to hospitality units, the Group is determined to make its presence felt in India. We are present in Mumbai, Bangalore, Chennai, Pune, Agra, Lucknow and Barielly.
+
+We rely on our team\'s strengths, which range from project management capabilities; project planning and aggressive rollout plans. Our belief is that an organization that stays together as a family progresses in all aspects</string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Settings</string>
+    <string name="nav_header_title">User</string>
+    <string name="nav_header_subtitle">Welcome To Lucknow</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--transport string-->
+    <string name="taxi">Taxi</string>
+    <string name="local">Local Transport</string>
+    <string name="uber">Uber</string>
+    <string name="ola">Ola</string>
+    <string name="uber_description">click here to book uber from here</string>
+    <string name="ola_description">click here to book ola from here</string>
+    <string name="rickshaw">Why Richkshaw?</string>
+    <string name="scooter">Why Scooter?</string>
+    <string name="car">Why not car</string>
+    <string name="rickshaw_description">Autos are a great way of seeing a city. Their less expensive than taxis and unlike buses, they take you to the doorstep of your destination. They are awesome for high traffic areas where they manage to effortlessly wiggle their way through traffic and get out of seemingly impossible jams. Though the auto wallahs driving skills may seem suspect to you, they do know the roads and the traffic…and they drive it as they seem fit. Their business ethics however there lots to be said. Millions of Indian’s use Rickshaws daily so it can’t be that bad. It takes a little getting used to. It’s always scariest the first time on a roller coaster but the second and third time you start enjoying the ride…it’s the same with auto-rickshaws…except you may not enjoy it but you’ll certainly get used to it.</string>
+    <string name="scooter_description">Lucknow is an amazing place to ride the bike, not much beats the sun on your skin and wind in your hair and the rush of exhilaration as you explore the Indian countryside with the freedom of your own 2 wheels. Plus, traveling by bike gives you the opportunity to really get off the beaten track and also gives you a much better connection to the kaleidoscope of sights and smells of Incredible India you’ll encounter along the way than sitting in a car or bus.</string>
+    <string name="car_description">The main problem is the sheer amount of "traffic" on the roads in the towns, very few of which adhere to any particular code of conduct, other than "biggest wins"! In the countryside, on the main roads, the problem is the large number of lorries, whose drivers often drive for many hours without stops, and have been known to be under the influence (drugs/drink). It is not uncommon to pass a burnt out vehicle on the side of the road.</string>
+
+    <!--facts string-->
+    <string name="fh1">Lucknow owes its cultural and historic evolution to the Mughal Empire</string>
+    <string name="fh2">No prejudice</string>
+    <string name="fh3">Mind your Tehzeeb</string>
+    <string name="fh4">Galawati Kebab</string>
+    <string name="fh5">Hazratganj</string>
+    <string name="fh6">Tunday Kababi</string>
+
+    <string name="f1">Lucknow cradled the dynasty of the Nawabs in the first half of the 18th century when the then Mughal Emperors appointed Nawabs for smooth administration of Awadh.</string>
+    <string name="f2">What is pumped into the blood of this city of astonishment is the rich, unyielding sense of pride. That of crediting one’s birth to a place of epitomized cultural distinguishment, and the cognizance of a place so celebrated that one feels the terrible urge to brag about. This is just one of the many myriad powers of the city.</string>
+    <string name="f3">With opposite communities residing in one area, a bilingual culture is the most common guess. However, Lucknow never fails to surprise us. The cultural Capital of North India has come up with an intricate euphemism of the opposite prevailing cultures – a blend, which in its attempt to encompass elements from both Hindi and Urdu, ended up mixing up both with a high form of accent, called Ganga-Jamuna tehzeeb. It is a characteristic way of speech, generally symptomatic of a great deal of respect to the listener</string>
+    <string name="f4">Galawati Kebab or Galauti Kebab is a special delicacy which was once made exclusively for a Nawab in Lucknow. Galawati means melt in your mouth, and the dish does exactly that. Once finely ground meat and unripe papaya is marinated, a mixture of spices is added to the dish. This one must be high on your must try list when in Lucknow</string>
+    <string name="f5">Hazaratganj is a major shopping district in the heart of Lucknow. It was first established in 1810 by Nawab Saadat Ali Khan, who had acquired the throne with the help of the British in January 1798. Named after Hazrat Ali, the fourth caliph, this market has several lanes that were historically bohemian, frequented by artists and patrons of music, perfumes and poetry. Throughout the ages, this market was a favorite of British officials, Nawabs, and zamindars alike for leisurely walks through the center of town. Today, Hazratganj is a busy area where you’ll find a high concentration of Lucknow’s local bazaars. Shoppers may walk away with a traditional white Chikan (a type of hand embroidery using cutwork and shadow work), or a brand new kurta or saree.</string>
+    <string name="f6">Lucknow is a food lovers paradise and its popular Tunday Kebabs are pure heaven. This soft and succulent delicacy prepared from minced meat and an extraordinary assortment of over 160 spices is on the top of the list for any foodie visiting Lucknow.One cannot imagine Lucknow without its famous Tunday Kebab!</string>
+</resources>

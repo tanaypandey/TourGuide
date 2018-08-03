@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/list_item_height">
+
+    <ImageView
+        android:id="@+id/fact_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pone"/>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/gradient"
+    android:layout_alignParentBottom="true">
+    <TextView
+        android:id="@+id/fact_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="45sp"
+        android:gravity="center_vertical"
+        android:fontFamily="@font/roboto"
+        android:textColor="@android:color/white"
+        tools:text="lutti"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_below="@id/fact_heading"
+        android:id="@+id/fact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:fontFamily="@font/roboto"
+        android:textColor="@android:color/white"
+        tools:text="lutti" />
+</RelativeLayout>
+</RelativeLayout>
